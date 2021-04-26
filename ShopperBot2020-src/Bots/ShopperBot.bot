@@ -1,0 +1,18 @@
+{
+    "name": "ShopperBot",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "2483ef36-a676-4ac1-a1e3-ad459a2950be",
+            "appPassword": "a0Ubxkz-e&NC#Kp4[){_/7]U",
+            "endpoint": "http://localhost:3978/api/messages",
+            "id": "c16b4730-6af0-11ea-92b6-0786af356b0b",
+            "name": "http://localhost:3978/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "overrides": null,
+    "path": "C:\\Users\\andre\\OneDrive\\Desktop\\ShopperBot2020-src\\Bots\\ShopperBot.bot"
+}
